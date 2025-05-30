@@ -51,6 +51,9 @@ and secondary regions
 dynamically update the visualizations
 
 
+
+![dashboard](https://github.com/user-attachments/assets/5b03a0ab-fac7-475d-b0f7-e4c907b8defe)
+
 ### Implication:
 West may benefit from a broader customer base and product variety, while South may focus on improving order volume and customer reach.
 •	West outperforms South in nearly all metrics, particularly in order volume and product range.
