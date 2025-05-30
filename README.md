@@ -1,6 +1,7 @@
 # Regional Sales Analysis 
 
 ### Project Overview 
+---
 
 This project focuses on analyzing and comparing sales performance across two selected regions using Tableau. The objective is to present key metrics such as total sales, average sales per order, customer count, and product diversity. The dashboard created will support strategic decisions by providing actionable insights through data visualization.
 
